@@ -25,7 +25,7 @@ session_start();
             <div class="upload-wrapper">
 
                 <span class="file-name">
-                    Choose a file
+                    Choose a File
                 </span>
 
                 <label for="file-upload"><input type="file" name="uploadedFile" id="file-upload"></label>
